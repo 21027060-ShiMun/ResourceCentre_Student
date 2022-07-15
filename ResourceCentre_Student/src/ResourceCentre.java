@@ -297,7 +297,6 @@ public class ResourceCentre {
 				
 			}
 		}
-
 		// end of code
 		return isReturned;
 	}

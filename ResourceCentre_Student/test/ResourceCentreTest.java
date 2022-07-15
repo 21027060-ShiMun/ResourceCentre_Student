@@ -19,6 +19,7 @@ public class ResourceCentreTest {
 	private ArrayList<Chromebook> chromebookList;
 	
 	public ResourceCentreTest() {
+		
 		super();
 	}
 	
